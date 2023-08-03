@@ -1,4 +1,0 @@
-# Normalize line endings to LF for all text files checked into the repo.
-# https://www.aleksandrhovhannisyan.com/blog/crlf-vs-lf-normalizing-line-endings-in-git/
-
-* text=auto
